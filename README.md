@@ -11,6 +11,7 @@ Data Cleaning: The data from the CSV is processed to make sure they fit the requ
 
 Plotting Functions: Matplotlib was used to generate all the visualizations with proper axes, titles, and formatting.
 
-Limitations:
+Limitations/Improvements:
 1. The script relies on cleaning techniques for the CSV to be used.
-2. 
+2. The use of matplotlib makes this analysis surface deep.
+3. The AI assisted parts within the script could be shortened.
